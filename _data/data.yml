@@ -92,21 +92,22 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
+    Here are my skills:
     + Android Mobile Develompent
     + Java Programing Language
     + Kotlin Programing Language
-    + Linux Opertaing System
-    + Backend Dveloping
+    + Version controlling (GIT)
+    + Linux Operating System
+    + Backend Developing
     + Security of Linux servers
     + Big data (MongoDB & Cassandra)
     + Networking
-    + Socket Programing
+    + Socket Programming
     + Docker and Kubernetes
-    + Gardle & Maven build system
+    + Gradle & Maven build system
     + RESTful API
     + UI/UX
-    + Google play app console
+    + Google Play app console
 
   levels:
     - name: Android
