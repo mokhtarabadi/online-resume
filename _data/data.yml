@@ -1,26 +1,26 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Mohammad Reza Mokhtarabadi
+  title: Full Stack Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: mmokhtarabadi@gmail.com
+  phone:
+  website: mokhtarabadi.com
   wechat:
   whatsapp:
-  telegram:
-  github: github
-  gitlab:
+  telegram: m_mokhtari_developer
+  github: mokhtarabadi
+  gitlab: mokhtarabadi
   bitbucket:
   googlescholar:
   researchgate:
   linkedin:
   medium:
-  twitter: twitter
+  twitter: mokhatarabadi
   stackoverflow:
   quora:
   goodreads:
@@ -29,39 +29,39 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    **TL;DR:**
 
-    ...
+    Someone who loves coding, especially in Java using Android Studio! 
+
+    See some of my open source projects at [GitHub](https://github.com/mokhtarabadi)
+
+    Or see my daily techs usage at [![wakatime](https://wakatime.com/badge/user/54a1ec34-c863-4117-b416-15ae4f94d9a4.svg)](https://wakatime.com/@54a1ec34-c863-4117-b416-15ae4f94d9a4)
+    
+    &nbsp;
+
+    **The history**
+
+    Someone who was once 13 years old knew code and started it at 14 years old!
+
+    First I learned JavaScript and developed simple web apps, then I started learning object-oriented programing, and that's where I met Java.
+
+    In 2013, I bought an android phone, which made a huge change in my life, I dropped everything and put all my focus on app development for Android.
+
+    And now, I can make ideas into real applications.
 
 experiences:
-  display: true
+  display: false
   title: Experiences
   items:
     - role: Backend Developer
       time: 2018.03 - 2019.03
-      company: Second Company
+      company: Main Iran Media
       tag:
-      location: Beijing
+      location: Kerman
       details: |
         Experience in this company:
         + First
         + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
 
 projects:
   display: true
@@ -70,78 +70,76 @@ projects:
     This is all the projects I'm involved in.
 
   items:
-    - name: Foo
-      link: https://www.google.com
+    - name: Telegram Farsi
+      link: https://cafebazaar.ir/app/ir.persianfox.messenger?l=en
       details: |
-        Project Foo's detail, you can write markdown format text.
+        This is my first experience in Android, It's an unoffical Android client for Telegram. (with more than 3M installs)
 
-    - name: Bar
-      link:
+    - name: Lemon VPN
+      link: https://apkpure.com/lemon-vpn-unlimited-free-vpn-secure-vpn/org.lemonvpn.android
       details: |
-        Project Bar's detail, you can write markdown format text.
+        My first experience in advanced computer networking, that is an android app which provide a secure and fast VPN service for users.
 
+    - name: Redgram
+      link: https://apkpure.com/redgram-messenger-meet-new-people-of-telegram/org.redgram.messenger
+      details: |
+        Second experience in developing custom client for Telegram API. That has all Telegram core features + many new features.
+    - name: Instagram Downloader
+      link: https://cafebazaar.ir/app/org.instabox.downloader?l=en
+      details: |
+        Complete android app based on private Instagram API. Basically I start building this app for learning porposed but after a while I continue developing the project and make it one of the most downloaded (Instagram Tools) app.
 skills:
   display: true
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
-
-    ...
+    + Android Mobile Develompent
+    + Java Programing Language
+    + Kotlin Programing Language
+    + Linux Opertaing System
+    + Backend Dveloping
+    + Security of Linux servers
+    + Big data (MongoDB & Cassandra)
+    + Networking
+    + Socket Programing
+    + Docker and Kubernetes
+    + Gardle & Maven build system
+    + RESTful API
+    + UI/UX
+    + Google play app console
 
   levels:
-    - name: Skill A
+    - name: Android
       level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
+    - name: Java
+      level: 95
+    - name: Kotlin
       level: 70
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - university: Islamic Azad university
+      time: 2015 - 2016
+      major: Computer (Software)
+      degree: Associate Degree
       details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
+        I'm not interested in learning computer by looking at the board, That's why I quickly dropped out of university 
 
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
+    - name: Android course
+      authority: Technical and professional
       time: 2020
       link:
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
+        My degree is from the technical and professional organization of Iran.
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -157,7 +155,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -167,22 +165,28 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Persian
       level: Native
     - idiom: English
-      level: Professional
+      level: Intermediate
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Learning
       link:
     - item: Cooking
       link:
+    - item: Biking
+      link:
+    - item: Traveling
+      link:
+    - item: And cooding!!
+      link: 
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -192,7 +196,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
