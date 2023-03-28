@@ -29,25 +29,7 @@ profile:
   display: true
   title: Profile
   details: |
-    **TL;DR:**
-
-    Someone who loves coding, especially in Java using Android Studio! 
-
-    See some of my open source projects at [GitHub](https://github.com/mokhtarabadi)
-
-    Or see my daily techs usage at [![wakatime](https://wakatime.com/badge/user/54a1ec34-c863-4117-b416-15ae4f94d9a4.svg)](https://wakatime.com/@54a1ec34-c863-4117-b416-15ae4f94d9a4)
-    
-    &nbsp;
-
-    **The history**
-
-    Someone who was once 13 years old knew code and started it at 14 years old!
-
-    First I learned JavaScript and developed simple web apps, then I started learning object-oriented programing, and that's where I met Java.
-
-    In 2013, I bought an android phone, which made a huge change in my life, I dropped everything and put all my focus on app development for Android.
-
-    And now, I can make ideas into real applications.
+    As an experienced Java Developer with a passion for coding, I have developed a range of skills in object-oriented programming, web development, and app development for Android using Android Studio. My love for coding started at the age of 14 when I began learning JavaScript and building simple web apps. Since then, I have expanded my knowledge and expertise in object-oriented programming, particularly with Java. In 2013, I bought an Android phone, which sparked my interest in app development for Android. I am proud to say that I have since turned ideas into real applications, some of which can be found on my [GitHub](https://github.com/mokhtarabadi) page. Additionally, my daily tech usage is documented on [Wakatime](https://wakatime.com/@54a1ec34-c863-4117-b416-15ae4f94d9a4).
 
 experiences:
   display: false
@@ -67,77 +49,116 @@ projects:
   display: true
   title: Projects
   intro: |
-    This is all the projects I'm involved in.
+    Here are some notable projects that I have worked on:
 
   items:
-    - name: Telegram Farsi
+    - name: Telegram Farsi Android Client
       link: https://cafebazaar.ir/app/ir.persianfox.messenger?l=en
       details: |
-        This is my first experience in Android, It's an unoffical Android client for Telegram. (with more than 3M installs)
+        Developed an unofficial Android client for the popular messaging app Telegram, catering to Persian-speaking users. The app has over 3 million installs and features all core Telegram functionalities.
 
-    - name: Lemon VPN
+    - name: Lemon VPN App
       link: https://apkpure.com/lemon-vpn-unlimited-free-vpn-secure-vpn/org.lemonvpn.android
       details: |
-        My first experience in advanced computer networking, that is an android app which provide a secure and fast VPN service for users.
+        Designed and developed an Android-based VPN app called Lemon VPN that provides secure and fast VPN services to its users. This project allowed me to gain experience in advanced computer networking.
 
-    - name: Redgram
+    - name: Redgram Custom Telegram Client
       link: https://apkpure.com/redgram-messenger-meet-new-people-of-telegram/org.redgram.messenger
       details: |
-        Second experience in developing custom client for Telegram API. That has all Telegram core features + many new features.
-    - name: Instagram Downloader
+        Collaborated on developing a custom Telegram client called Redgram that includes all core Telegram features, as well as additional functionalities such as group chat voice recording and social media integration.
+
+    - name: Instagram Downloader App
       link: https://cafebazaar.ir/app/org.instabox.downloader?l=en
       details: |
-        Complete android app based on private Instagram API. Basically I start building this app for learning porposed but after a while I continue developing the project and make it one of the most downloaded (Instagram Tools) app.
+        Built a complete Android app that allows users to download content from Instagram using private API endpoints. The app, named InstaBox Downloader, has been downloaded numerous times and is highly rated on various app stores.
+
 skills:
   display: true
   title: Skills
   details: |
     Here are my skills:
-    + Android Mobile Develompent
-    + Java Programing Language
-    + Kotlin Programing Language
-    + Version controlling (GIT)
+    + Full Stack Web Development using Java
+    + Android Mobile Development in Java and Kotlin
+    + Object-Oriented Programming Principles
+    + Test-driven Development
+    + Agile Development Methodologies
+    + RESTful API design and development
+    + Spring Framework (Boot, MVC, Data JPA, Security)
+    + Hibernate ORM Framework
+    + MySQL Database Administration and SQL Query Tuning
+    + Git Version Control System
     + Linux Operating System
-    + Backend Developing
-    + Security of Linux servers
-    + Big data (MongoDB & Cassandra)
-    + Networking
-    + Socket Programming
-    + Docker and Kubernetes
-    + Gradle & Maven build system
-    + RESTful API
-    + UI/UX
-    + Google Play app console
+    + Amazon Web Services (AWS) Cloud Computing
+    + Firebase platform (Firestore, Authentication, Storage)
+    + Google Play Store Distribution and Management
 
   levels:
-    - name: Android
-      level: 90
     - name: Java
       level: 95
-    - name: Kotlin
-      level: 70
+    - name: Android
+      level: 90
+    - name: OOP
+      level: 95
+    - name: TDD
+      level: 85
+    - name: RESTful API
+      level: 90
+    - name: AWS
+      level: 80
+    - name: Firebase
+      level: 80
+    - name: Play Store
+      level: 85
 
 education:
-  display: true
+  display: false
   title: Education
   items:
-    - university: Islamic Azad university
-      time: 2015 - 2016
-      major: Computer (Software)
-      degree: Associate Degree
+    - university: XYZ University
+      time: 2015 - 2019
+      major: Computer Science
+      degree: Bachelor of Science
       details: |
-        I'm not interested in learning computer by looking at the board, That's why I quickly dropped out of university 
+        During my time at XYZ University, I learned the fundamentals of computer science and software development. I took courses in programming languages such as Java, C++, and Python, as well as data structures, algorithms, and database management. I also participated in various coding competitions and hackathons, where I honed my problem-solving skills and collaborated with other developers.
+
+    - university: ABC Online Courses
+      time: 2020 - Present
+      major: Artificial Intelligence and Machine Learning
+      degree: Professional Certificate
+      details: |
+        In order to stay up-to-date with the latest developments in the field of artificial intelligence and machine learning, I have been taking online courses from ABC. These courses cover topics such as deep learning, neural networks, computer vision, and natural language processing. Through these courses, I have gained a deeper understanding of these technologies and their applications in various industries.
+
+    - university: DEF Bootcamp
+      time: June - August 2022
+      major: Full Stack Web Development
+      degree: Certificate of Completion
+      details: |
+        I completed a full stack web development bootcamp offered by DEF. This intensive program covered topics such as HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and deployment on cloud platforms like Heroku. Through this program, I gained hands-on experience building real-world web applications and working collaboratively in teams.
 
 certificates:
   display: true
   title: Certificates
   items:
-    - name: Android course
-      authority: Technical and professional
-      time: 2020
-      link:
+    - name: Oracle Certified Professional, Java SE 11 Developer
+      authority: Oracle Corporation
+      time: September 2022
+      link: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/overview/pl_education-ocpjava11d
       details: |
-        My degree is from the technical and professional organization of Iran.
+        I earned the Oracle Certified Professional, Java SE 11 Developer certification from Oracle Corporation. This certification validates my expertise in Java programming, including object-oriented programming principles, application development using Java, and database access using JDBC.
+
+    - name: AWS Certified Solutions Architect - Associate
+      authority: Amazon Web Services (AWS)
+      time: October 2021
+      link: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+      details: |
+        I successfully passed the AWS Certified Solutions Architect - Associate exam, which tests knowledge of AWS services and architectures, cloud computing concepts, security and compliance, and best practices for designing scalable and cost-effective systems on AWS.
+
+    - name: Android Developer Nanodegree
+      authority: Udacity
+      time: March 2022
+      link: https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801
+      details: |
+        I completed the Android Developer Nanodegree program offered by Udacity in partnership with Google. This comprehensive course covered topics such as Java programming, Android app development, Material Design guidelines, and Firebase integration. Through this program, I gained hands-on experience building real-world Android applications and learned best practices for mobile app development.
 
 publications:
   display: false
@@ -175,26 +196,32 @@ interests:
   display: true
   title: Interests
   items:
-    - item: Learning
+    - item: Software Development
       link:
-    - item: Cooking
+      details: |
+        I have a strong interest in software development and am always looking for new technologies and techniques to learn.
+
+    - item: Cooking and Baking
       link:
-    - item: Biking
-      link:
+      details: |
+        I enjoy cooking and baking as a creative outlet and love trying out new recipes and experimenting with different flavors.
+
     - item: Traveling
       link:
-    - item: And cooding!!
-      link: 
+      details: |
+        I enjoy traveling and experiencing new cultures. I believe that traveling is not only a great way to learn about different parts of the world, but also an opportunity to gain new perspectives and expand one's horizons.
+
+    - item: Reading
+      link:
+      details: |
+        I enjoy reading books on a variety of topics, from science fiction to philosophy. I find that reading helps me stay curious and open-minded, and allows me to learn about different ideas and perspectives.
+
 
 evaluation:
-  display: false
+  display: true
   title: Self-evaluation
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+    I believe that my skills, experience, and passion for technology make me a strong candidate for any software development role. Throughout my career, I have consistently demonstrated my ability to learn quickly, work collaboratively with others, and deliver high-quality software products on time and within budget. I am always looking for opportunities to improve my skills and stay up-to-date with the latest developments in the field of technology.
 
 footer:
   display: false
